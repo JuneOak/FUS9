@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+body {
+  background-color: rgb(255, 230, 254);
+}
+.basecolor{
+  color: rgb(14, 106, 212);
+}
+.largesize{
+  font-size: 24px;
+}
+.italic{
+  font-style: italic;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
